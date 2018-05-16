@@ -2,6 +2,7 @@ package cn.miaosha.utils;
 
 /**
  * 微信支付参数
+ 测试
  */
 public class PayConfig {
 	//企业方公众号Id
